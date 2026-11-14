@@ -1,0 +1,12 @@
+[style name="style"]
+[background arg="res://backrounds/bedroom filler.jpg" fade="1.0"]
+join Ophelia (Neutral) center
+Narrator: She makes the final adjustments to the circle inscribed on the tome. She sourced it from some places she didn't think she’d ever explore. The Summoning circle that she'd bought had cost her more than she’d ever like to admit, but any price was worth feeling the love that she craves so deeply.  She’ll do anything to fix this horrible tragedy of her own making...
+Ophelia (speaking): Soon… everything will be fine and you’ll forgive me.
+Ophelia (upset speak): ...Right?
+update Ophelia [animation="Shake X" length="1.0" repeat="5"]
+[style name="demonic"]
+Ophelia (Closed): [lspeed=0.1][wave]Esaeler siht elkcahs fo srevol ssol dna kearb eht yradnuob os a luos yam ssroc![/wave]
+[background arg="#ff0000ff" fade="5.0" wait="true"]
+leave Ophelia
+# replace with red version of bedroom

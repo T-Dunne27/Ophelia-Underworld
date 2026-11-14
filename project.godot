@@ -35,6 +35,7 @@ directories/dtl_directory={
 }
 layout/style_directory={
 "Blurry": "res://Styles/blurry.tres",
+"demonic": "res://Styles/demonic.tres",
 "style": "res://Styles/style.tres"
 }
 text/letter_speed=0.01
@@ -69,7 +70,7 @@ audio/channel_defaults={
 "volume": 0.0
 }
 }
-layout/style_list=["res://Styles/style.tres", "res://Styles/blurry.tres"]
+layout/style_list=["res://Styles/style.tres", "res://Styles/blurry.tres", "res://Styles/demonic.tres"]
 layout/default_style="res://backrounds/style.tres"
 glossary/default_case_sensitive=true
 variables={}
