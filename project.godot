@@ -21,13 +21,20 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
+"Narrator": "res://characters/Narrator.dch",
 "Ophelia": "res://characters/Ophelia.dch",
+"Rando": "res://characters/Rando.dch",
 "Urseline": "res://characters/Urseline.dch"
 }
 directories/dtl_directory={
-"Scene1": "res://Timelines/Scene1.dtl"
+"Scene 3": "res://Timelines/Scene 3.dtl",
+"Scene1": "res://Timelines/Scene1.dtl",
+"Scene2": "res://Timelines/Scene2.dtl"
 }
-layout/style_directory={}
+layout/style_directory={
+"Blurry": "res://Styles/blurry.tres",
+"style": "res://Styles/style.tres"
+}
 text/letter_speed=0.01
 text/initial_text_reveal_skippable=true
 text/text_reveal_skip_delay=0.1
@@ -60,8 +67,8 @@ audio/channel_defaults={
 "volume": 0.0
 }
 }
-layout/style_list=[]
-layout/default_style="Default"
+layout/style_list=["res://Styles/style.tres", "res://Styles/blurry.tres"]
+layout/default_style="res://backrounds/style.tres"
 glossary/default_case_sensitive=true
 variables={}
 
