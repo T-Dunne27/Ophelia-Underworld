@@ -24,10 +24,12 @@ directories/dch_directory={
 "Narrator": "res://characters/Narrator.dch",
 "Ophelia": "res://characters/Ophelia.dch",
 "Rando": "res://characters/Rando.dch",
-"Urseline": "res://characters/Urseline.dch"
+"Urseline": "res://characters/Urseline.dch",
+"fia": "res://characters/fia.dch"
 }
 directories/dtl_directory={
 "Scene 3": "res://Timelines/Scene 3.dtl",
+"Scene 4": "res://Timelines/Scene 4.dtl",
 "Scene1": "res://Timelines/Scene1.dtl",
 "Scene2": "res://Timelines/Scene2.dtl"
 }

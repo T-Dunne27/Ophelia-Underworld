@@ -1,0 +1,21 @@
+[background arg="res://backrounds/bedroom filler.jpg" fade="2.0" wait="true"]
+[style name="style"]
+join Ophelia left
+join fia right
+fia: (There's no point in moving on... what's the point if she isn't here with me?)
+Ophelia: But she isn't here, is she?
+fia: (Nothing can bring her back to me, not the doctors, or anybody else...)
+Ophelia: I guess I'll have to live with what I've done, won't I?
+fia: (I can't do that... )
+Ophelia: I know I can't. Even she would know that, wherever she is now.
+fia: (Maybe she's nowhere at all (maybe she getting drunk and having fun like she would at a parties forever), that would probably be better for her)
+Ophelia:  If she was in some sort of existence, she'd probably be missing me... (well at least i hope she would be)
+fia: (I can't imagine how she would be feeling right now... I'm feeling horrible and I'm not even the one that died)
+Ophelia: I can't help her from where I am now
+fia: (Or could I...)
+Ophelia: Maybe I should just let go
+fia: (But this might be my chance to fix everything!)
+Ophelia: There's only one way to find out
+Narrator: She sat down in front of her laptop, and began to search "ways to bring someone back from the dead"
+leave --All-- [animation="Fade Out"]
+[background arg="#000000ff" fade="2.5" wait="true"]

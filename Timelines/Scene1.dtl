@@ -22,4 +22,5 @@ Ophelia: I don't ever want to see you like this again!
 update Urseline [mirrored="true"]
 leave Urseline [animation="Slide To Right" length="2.2" wait="true"]
 leave Ophelia
+[background arg="#000000ff" fade="1.5" wait="true"]
 jump Scene2/
