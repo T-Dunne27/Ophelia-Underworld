@@ -1,3 +1,4 @@
+[background arg="res://backrounds/bedroom filler.jpg" fade="0.0"]
 join Ophelia left
 join Urseline right [animation="Slide From Right"]
 Urseline (Talking): Why’re ya even awake? You should be sleeping!
@@ -15,6 +16,9 @@ Ophelia: Don’t “Fia” me! I’m sick and tired of you going out and nearly 
 Urseline (Concerned): I promise that won’t happen Fia..
 Ophelia: It doesn’t matter what you promise! You won’t even remember this in the morning! And you still drove your motorbike home! I told you to at least call me… I can’t handle this right now. Just leave, alright? We can talk about it tomorrow when you’re actually sober.
 Urseline (Concerned): Please! I promi-
-Ophelia: I don’t care right now! Just leave! I don't ever want to see you like this again!
+Ophelia: I don’t care right now! Just leave!
+Ophelia: I don't ever want to see you like this again!
 update Urseline [mirrored="true"]
 leave Urseline [animation="Slide To Right" length="2.2" wait="true"]
+leave Ophelia
+[background arg="#000000ff" fade="2.5" wait="true"]
