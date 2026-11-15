@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ordorwwbn2pk"
-path="res://.godot/imported/hell bedroom.png-b87365061d2d7d7ba6f938a3ce57eded.ctex"
+uid="uid://cvkevto0cxmy7"
+path="res://.godot/imported/menu bg (With Buildings).png-fbd6fc689c3557af57fd858b828cb9d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://backrounds/hell bedroom.png"
-dest_files=["res://.godot/imported/hell bedroom.png-b87365061d2d7d7ba6f938a3ce57eded.ctex"]
+source_file="res://Sprites/menu bg (With Buildings).png"
+dest_files=["res://.godot/imported/menu bg (With Buildings).png-fbd6fc689c3557af57fd858b828cb9d7.ctex"]
 
 [params]
 

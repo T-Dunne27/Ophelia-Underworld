@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://y3mfqde26gtg"
-path="res://.godot/imported/outside.jpg-caf24b25b699b6aa7bf4714253c800ea.ctex"
+uid="uid://b3qvkpcen8fi0"
+path="res://.godot/imported/church.jpg-da06524f171f2cc4b6599cfb17d920fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://backrounds/outside.jpg"
-dest_files=["res://.godot/imported/outside.jpg-caf24b25b699b6aa7bf4714253c800ea.ctex"]
+source_file="res://backrounds/church.jpg"
+dest_files=["res://.godot/imported/church.jpg-da06524f171f2cc4b6599cfb17d920fd.ctex"]
 
 [params]
 

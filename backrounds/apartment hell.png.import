@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bhuvtia4qtcrw"
-path="res://.godot/imported/restaurant-Hell.png-aa2bb8fb2b35378c072c3d61667c55a1.ctex"
+uid="uid://ck4m66y4h2uah"
+path="res://.godot/imported/apartment hell.png-504d251d63c8618ca82261aee6a3a177.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://backrounds/restaurant-Hell.png"
-dest_files=["res://.godot/imported/restaurant-Hell.png-aa2bb8fb2b35378c072c3d61667c55a1.ctex"]
+source_file="res://backrounds/apartment hell.png"
+dest_files=["res://.godot/imported/apartment hell.png-504d251d63c8618ca82261aee6a3a177.ctex"]
 
 [params]
 

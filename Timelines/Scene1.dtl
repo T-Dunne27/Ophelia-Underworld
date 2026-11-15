@@ -1,5 +1,5 @@
 [style name="style"]
-[background arg="res://backrounds/bedroom filler.jpg" fade="0.0"]
+[background arg="res://backrounds/apartment.jpg" fade="0.0"]
 join Ophelia left
 join Urseline right [animation="Slide From Right"]
 Urseline (Talking): Why’re ya even awake? You should be sleeping!

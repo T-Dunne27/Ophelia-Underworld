@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cw0a1avi1prv2"
-path="res://.godot/imported/pub earth.jpg-0f916f28113dad3376ef148c10e0975a.ctex"
+uid="uid://bxcc7odipjdep"
+path="res://.godot/imported/apartment.jpg-c996c432db9433c3ccbc8be0d3145170.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://backrounds/pub earth.jpg"
-dest_files=["res://.godot/imported/pub earth.jpg-0f916f28113dad3376ef148c10e0975a.ctex"]
+source_file="res://backrounds/apartment.jpg"
+dest_files=["res://.godot/imported/apartment.jpg-c996c432db9433c3ccbc8be0d3145170.ctex"]
 
 [params]
 

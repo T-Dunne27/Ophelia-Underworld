@@ -22,6 +22,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 directories/dch_directory={
 "Crowd": "res://characters/Crowd.dch",
+"Hades": "res://characters/Hades.dch",
 "Narrator": "res://characters/Narrator.dch",
 "Ophelia": "res://characters/Ophelia.dch",
 "Urseline": "res://characters/Urseline.dch",
@@ -36,6 +37,8 @@ directories/dtl_directory={
 "Scene 6.2": "res://Timelines/Scene 6.2.dtl",
 "Scene 6.3": "res://Timelines/Scene 6.3.dtl",
 "Scene 7": "res://Timelines/Scene 7.dtl",
+"Scene 8": "res://Timelines/Scene 8.dtl",
+"Scene 9": "res://Timelines/Scene 9.dtl",
 "Scene1": "res://Timelines/Scene1.dtl",
 "Scene2": "res://Timelines/Scene2.dtl",
 "Scene5": "res://Timelines/Scene5.dtl",

@@ -1,7 +1,7 @@
 [style name="style"]
 Narrator: Three Days Later,
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
-[background arg="res://backrounds/church  backround.jpg" fade="3.0" wait="true"]
+[background arg="res://backrounds/church.jpg" fade="3.0" wait="true"]
 join Ophelia (Funeral-Neutral) left [mirrored="true"]
 join rando rightmost
 Narrator: Ophelia hasn't slept since Urseline's accident, barely able to keep her eyes open through the eulogies. Her brain is in a constant fog and she can barely recognise anyone

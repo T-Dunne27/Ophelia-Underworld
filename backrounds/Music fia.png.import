@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ci0sumkc6m26k"
-path="res://.godot/imported/graveyard backround.jpg-ff8869ab42c44c8faa5b7f69dcd33bd9.ctex"
+uid="uid://eaqr4jo4irr0"
+path="res://.godot/imported/Music fia.png-97ca8fac717ce646fcc8d5ad04f430b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://backrounds/graveyard backround.jpg"
-dest_files=["res://.godot/imported/graveyard backround.jpg-ff8869ab42c44c8faa5b7f69dcd33bd9.ctex"]
+source_file="res://backrounds/Music fia.png"
+dest_files=["res://.godot/imported/Music fia.png-97ca8fac717ce646fcc8d5ad04f430b5.ctex"]
 
 [params]
 

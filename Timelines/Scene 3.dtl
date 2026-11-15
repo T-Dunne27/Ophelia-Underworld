@@ -1,4 +1,4 @@
-[background arg="res://backrounds/bedroom filler.jpg" fade="2.0" wait="true"]
+[background arg="res://backrounds/apartment.jpg" fade="2.0" wait="true"]
 [style name="style"]
 join Ophelia left
 join fia right
@@ -9,7 +9,7 @@ Ophelia (hopeless): I guess I'll have to live with what I've done, won't I?
 fia: (I can't do that... )
 Ophelia (hopeless): I know I can't. Even she would know that, wherever she is now.
 fia: (Maybe she's nowhere at all (maybe she getting drunk and having fun like she would at a parties forever), that would probably be better for her)
-Ophelia (upset speak):  If she was in some sort of existence, she'd probably be missing me... (well at least i hope she would be)
+Ophelia (upset speak): If she was in some sort of existence, she'd probably be missing me... (well at least i hope she would be)
 fia: (I can't imagine how she would be feeling right now... I'm feeling horrible and I'm not even the one that died)
 Ophelia (frustrated): I can't help her from where I am now
 fia: (Or could I...)

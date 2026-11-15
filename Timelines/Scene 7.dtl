@@ -12,7 +12,7 @@ Urseline: Well I’m fine… Alright?...
 leave Urseline
 leave Ophelia
 leave tio
-[background arg="res://backrounds/hell.jpg" fade="1.5" wait="true"]
+[background arg="res://backrounds/intographics-hell-1690451_1920.jpg" fade="1.5" wait="true"]
 join Urseline (demon/Neutral) right [animation="Shake X" length="1.0" wait="true"]
 join Ophelia (Hell Determined) left
 join tio center

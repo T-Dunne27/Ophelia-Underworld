@@ -1,30 +1,30 @@
-[background arg="res://backrounds/pub hell.png" fade="1.5" wait="true"]
+[background arg="res://backrounds/pub-hell.png" fade="1.5" wait="true"]
 [style name="hell"]
 join tio (Neutral) right [animation="Slide From Left" mirrored="true"]
 join Ophelia (Hell  Neutral) left [animation="Slide From Left" length="1.0"]
 tio (Speak): And for our first exhibit, we see a quite sweet and somber scene, isn’t this just so sweet!
 Ophelia (Hell Speak): Wait, is this-
 tio (Speak): It is! Are you ready to watch your love story unfold once again, dear Ophelia?
-[background arg="res://backrounds/pub earth.jpg" fade="1.5" wait="true"]
 tio: It all starts with Shy little guitarist, and a rebel. You would never think that these two would end up entangled with one another, yet here we are!
+[background fade="0.0"]
 update Ophelia (Neutral)
 tio: Wouldn’t want to distract from the show, so I’ll just let the scene speak for itself now.
 leave tio
 leave Ophelia
-[wait time="1.0"]
-join Ophelia center [z_index="-20"]
-# needs to be guitar sprite
+[background arg="res://backrounds/Music fia.png" fade="1.5" wait="true"]
 join Crowd center [animation="Slide In Up"]
 Narrator: With a final riff, the pub fills with applause, and Ophelia steps off the stage
+[wait time="2.0"]
 leave Crowd [animation="Slide Out Down" length="1.0" wait="true"]
-update Ophelia left [move_time="1.0" move_ease="out"]
+[background arg="res://backrounds/Pub inside.jpg" fade="0.0"]
+join Ophelia center [z_index="-20"]
 join Urseline right [animation="Slide From Right" length="1.0"]
 Urseline (Talking): Hey girl, you doin anything later?
 Ophelia (Neutral): M-me?
 Urseline (Talking): Well there’s no other pretty girls around other than you now, aren’t there?
 Ophelia (Neutral): I- I um-
 Urseline (Talking): Shhh, Don’t speak. You’re mine now. That’s all you need to know. Come with me now
-[background arg="res://backrounds/outside.jpg" fade="0.5"]
+[background arg="res://backrounds/pub(out).jpg" fade="0.5"]
 update Ophelia leftmost
 update Urseline left
 join motorbike rightmost
@@ -40,7 +40,7 @@ Urseline: Well if you insist…
 leave Urseline
 leave Ophelia
 [background arg="#000000ff" fade="1.0"]
-[background arg="res://backrounds/hell.jpg" fade="0.5"]
+[background arg="res://backrounds/intographics-hell-1690451_1920.jpg" fade="0.5"]
 join tio right [animation="Slide From Right"]
 tio (Speak): Well isn’t that just touching!
 tio (Speak): They look perfect for eachother, don't they? Like there’s nothing wrong at all?

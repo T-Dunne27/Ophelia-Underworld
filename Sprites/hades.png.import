@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://qhtemx8xqp6y"
-path="res://.godot/imported/hell.jpg-56b4368fd4a9fb21740cbd25d446fab6.ctex"
+uid="uid://ce83iyjioodpg"
+path="res://.godot/imported/hades.png-d908501f658b6a7837147648c0b26f13.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://backrounds/hell.jpg"
-dest_files=["res://.godot/imported/hell.jpg-56b4368fd4a9fb21740cbd25d446fab6.ctex"]
+source_file="res://Sprites/hades.png"
+dest_files=["res://.godot/imported/hades.png-d908501f658b6a7837147648c0b26f13.ctex"]
 
 [params]
 

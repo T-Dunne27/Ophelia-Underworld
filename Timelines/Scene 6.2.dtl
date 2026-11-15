@@ -1,10 +1,10 @@
-[background arg="res://backrounds/restaurant-Hell.png" fade="1.0"]
+[background arg="res://backrounds/restaurant hell.png" fade="1.0"]
 [style name="hell"]
 join Ophelia (Hell  Neutral) left
 join tio right
 Ophelia (Hell Speak): W-what do you mean by that?
 tio (Speak): Well just look and see!
-[background arg="res://backrounds/restaurant-Hell.png" fade="1.0" wait="true"]
+[background arg="res://backrounds/restaurant hell.png" fade="1.0" wait="true"]
 Ophelia (Hell Speak): What is this?
 tio (Speak): You dont know? Ohoho the audience is gonna loove this one
 Ophelia (upset speak): Why are yo doing this? Please leave me be
@@ -30,7 +30,7 @@ Ophelia (Funeral-Angry): You clearly don't know anything at all! You spew all th
 rando: It was nice seeing you again Fia...
 leave rando [animation="Fade Out" length="0.9"]
 update Ophelia (Hell  Neutral)
-[background arg="res://backrounds/restaurant-Hell.png" fade="0.5"]
+[background arg="res://backrounds/restaurant hell.png" fade="0.5"]
 join tio right [animation="Slide From Right"]
 tio: My god, woman, could you not see the ringing warning bells? 
 Ophelia: I remember now… And yet I still can’t remember his face…

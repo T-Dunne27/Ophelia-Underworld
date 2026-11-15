@@ -1,4 +1,4 @@
-[background arg="res://backrounds/hell.jpg" fade="2.0" transition="Simple Fade" wait="true"]
+[background arg="res://backrounds/intographics-hell-1690451_1920.jpg" fade="2.0" transition="Simple Fade" wait="true"]
 [style name="hell"]
 join Ophelia (Hell Dizzy) center
 update Ophelia [animation="Shake X" mirrored="true"]

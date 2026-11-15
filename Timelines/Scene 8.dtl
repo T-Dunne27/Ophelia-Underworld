@@ -1,0 +1,43 @@
+[background arg="res://backrounds/intographics-hell-1690451_1920.jpg" fade="0.0"]
+[style name="style"]
+join Urseline (demon/Neutral) right [animation="Slide From Left" length="2.0" mirrored="true"]
+join Ophelia center [animation="Slide From Left" length="2.0"]
+Urseline: Is this it?
+Ophelia: I think so? This it the general direction that the imp pointed us in, but I don't even know if that's trustworthy
+Urseline: In my personal opinion the evil imposing isn’t screaming “here to help”
+Ophelia (upset): But we don’t have any other choice so I guess we should just head in
+Narrator: As they are about to walk through the gates, a booming voice in the distance can be heard
+???: I do not wish to speak to souls of the damned! Present yourself to me human. Alone…
+Narrator: Ophelia stops for a second, nods to Urseline then starts to walk again
+Urseline (demon/concerned speak): You can’t be serious! What if something happens in there and I can’t help you?
+Ophelia (Hell Determined Speak): Urseline, I have to do this. This is what I came here for, after all. To bring you back to where you belong…
+Urseline: Just be safe, ok? I don’t want anything to happen to you…
+Ophelia (Hell Relief): Don’t worry, alright? I’ll make sure to come back as soon as possible
+leave Ophelia [animation="Slide To Right" length="2.0" wait="true"]
+leave Urseline [animation="Fade Out" length="3.0"]
+[background arg="#000000ff" fade="3.0" wait="true"]
+[background arg="res://backrounds/intographics-hell-1690451_1920.jpg" fade="1.0" wait="true"]
+join Ophelia leftmost [animation="Slide From Left" length="3.0"]
+Narrator: As Fia steps through the gates into the sanctum of the Lord Of hell, she is suddenly thrust forward, and after blinking, realises that she is now in front of Hades himself
+join Hades right
+Hades: Announce yourself!
+Ophelia (frustrated speak): Lord of the Underworld! I have come here to make a request!
+Hades: You have achieved love rekindled in fire, yet you beg to be released from its warm embrace?
+Ophelia (Hell  Neutral): H-how do you know that?
+Hades: I can read your heart oh so clearly, and yet I will listen to your plea. Present your wish, Ophelia of Earth.
+Ophelia (upset speak): I don’t belong here! And neither does Urseline! We just made mistakes, is all!
+Hades: Yes, I have seen your lives, yet I do not find it correct to agree with you…
+Ophelia: Why? What did we do that was so wrong that would bring us here?
+Hades: It seems, that even now, after you’ve been forced to witness your own wrongdoings, you still wish to stay in denial to the gluttony you felt for your beloved, and the pain you caused to others that perceived it as such?
+Ophelia (hopeless): …
+Hades: I will grant you half of your request, should you fulfill a condition...
+Ophelia (idea): What condition...?
+Hades: Absolve yourself of your love, and I will grant you a ferryman token...
+Ophelia (upset speak): B-but we need two! Why can’t you just give us more?
+Hades: You wish for me to defy the law of man? Disrupt the order? For a soul to leave this ring, another must bear the burden…
+Ophelia (hopeless): Which means…
+Hades: If you truly adore this one that you throw accolades to so freely, surely this must be a simple choice for you, is it not?
+[background arg="#000000ff" fade="2.0"]
+leave Ophelia [animation="Fade Out" length="2.0"]
+leave Hades
+jump

@@ -1,34 +1,34 @@
-[background arg="res://backrounds/hell.jpg" fade="1.0"]
+[background arg="res://backrounds/intographics-hell-1690451_1920.jpg" fade="1.0"]
 [style name="hell"]
 join Ophelia left
 join tio right
 Ophelia (Hell Speak): What could be worse than that?
 tio: Well clearly your memory is a bit shoddy, because this memory is FRESH out of the oven
-[background arg="res://backrounds/hell bedroom.png" fade="1.0" wait="true"]
+[background arg="res://backrounds/apartment hell.png" fade="1.0" wait="true"]
 Ophelia (frustrated speak): No… NO! I can’t experience this again! Never!
 tio: But the audien-
 Ophelia (Hell Determined Speak): Screw your audience! I bet they’re not even real anyway!
 tio (Speak): Well that’s not very nice is it? It seems like this is a pattern for you now, isn’t it? Lashing out when things aren’t going your way, even to the one person you fought so hard to keep in our life. Lets see how it plays out here, shall we?
 leave tio
 leave Ophelia
-[background arg="res://backrounds/bedroom filler.jpg" fade="1.0" wait="true"]
+[background arg="res://backrounds/apartment.jpg" fade="1.0" wait="true"]
 join Ophelia left
 join Urseline (blank) right [animation="Slide From Right"]
 Urseline (Talking): Why are you even awake... You should be sleeping...
 Ophelia: I-I just wanted to make sure you were all right
-Urseline: Well I’m fine… Alright?...
+Urseline (blank): Well I’m fine… Alright?...
 Ophelia (speaking): Well if you’re sure…
-Urseline: Why are you even on my case so much…
+Urseline (blank): Why are you even on my case so much…
 Ophelia (speaking): Well-
-Urseline: Don’t answer that, you’re more fun when playing guitar. You want to go out for a drive…
+Urseline (blank): Don’t answer that, you’re more fun when playing guitar. You want to go out for a drive…
 Ophelia (frustrated speak): You’re drunk!
 update Ophelia (upset) [mirrored="true"]
-Urseline: …
-Urseline: Fia..
+Urseline (blank): …
+Urseline (blank): Fia..
 Ophelia (frustrated speak): Don’t “Fia” me! I’m sick and tired of you going out and nearly dying every time that we have a slight disagreement! I’m scared, alright? Scared that one night you’re either going to get in a fight and go to prison, or even...
-Urseline: I promise that won’t happen Fia..
+Urseline (blank): I promise that won’t happen Fia..
 Ophelia (upset speak): It doesn’t matter what you promise! You won’t even remember this in the morning! And you still drove your motorbike home! I told you to at least call me… I can’t handle this right now. Just leave, alright? We can talk about it tomorrow when you’re actually sober.
-Urseline: Please ... I promise
+Urseline (blank): Please ... I promise
 Ophelia (frustrated speak): I don’t care right now! Just leave!
 Ophelia (hopeless): I don't ever want to see you like this again!
 update Urseline [mirrored="true"]

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://r64f25bhr1ol"
-path="res://.godot/imported/bedroom filler.jpg-979256b68eddd80d3cae306b8bd7009a.ctex"
+uid="uid://ddt7ne5xq0atr"
+path="res://.godot/imported/Pub inside.jpg-3c9428618bc2239373b9024a4bbf7fea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://backrounds/bedroom filler.jpg"
-dest_files=["res://.godot/imported/bedroom filler.jpg-979256b68eddd80d3cae306b8bd7009a.ctex"]
+source_file="res://backrounds/Pub inside.jpg"
+dest_files=["res://.godot/imported/Pub inside.jpg-3c9428618bc2239373b9024a4bbf7fea.ctex"]
 
 [params]
 
