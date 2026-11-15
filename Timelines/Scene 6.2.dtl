@@ -7,7 +7,7 @@ tio (Speak): Well just look and see!
 [background arg="res://backrounds/restaurant hell.png" fade="1.0" wait="true"]
 Ophelia (Hell Speak): What is this?
 tio (Speak): You dont know? Ohoho the audience is gonna loove this one
-Ophelia (upset speak): Why are yo doing this? Please leave me be
+Ophelia (upset speak): Why are you doing this? Please leave me be...
 tio: We're here for a story and we’re getting front row seats to your train wreck, and you want to deny  us that? Lets start the show!
 leave tio
 leave Ophelia
