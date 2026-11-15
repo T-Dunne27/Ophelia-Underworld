@@ -3,24 +3,24 @@ Narrator: Three Days Later,
 [clear time="1.0" portraits="false" music="false" background="false" positions="false" style="false"]
 [background arg="res://backrounds/church  backround.jpg" fade="3.0" wait="true"]
 join Ophelia (Funeral-Neutral) left [mirrored="true"]
-join Rando rightmost
+join rando rightmost
 Narrator: Ophelia hasn't slept since Urseline's accident, barely able to keep her eyes open through the eulogies. Her brain is in a constant fog and she can barely recognise anyone
 [style name="Blurry"]
-Rando: Blahblahblahblahblahblablahblahblahblahblahblablahblahblahblahblahblablahblahblahblahblahblablahbl
+rando: Blahblahblahblahblahblablahblahblahblahblahblablahblahblahblahblahblablahblahblahblahblahblablahbl
 [style name="style"]
 Narrator: She cant even register the words, her grief and guilt just as heavy as her eyelids. She shouldn't have told her to leave. She wished she didn't. All she wanted was a little space and now she has all the space in the world and yet she craves for it to be filled. As these thoughts loom over her, she gets startled as somebody comes up behind her
-update Rando right
-Rando: Fia! It’s been so long, how have you been doing?
+update rando right
+rando: Fia! It’s been so long, how have you been doing?
 Ophelia (Funeral-Speak): Well… 
-Rando: Oh my god I'm so sorry! I said that without even thinking! You know how I am right?
+rando: Oh my god I'm so sorry! I said that without even thinking! You know how I am right?
 Ophelia (Funeral-Speak): Right…
-Rando: I missed you so much, I hope you know that… Especially how things went down that day…
+rando: I missed you so much, I hope you know that… Especially how things went down that day…
 Ophelia (Funeral-Awkward): That day?
-Rando: The last time we talked? I said some pretty nasty things to you, but this isn’t the time to think about that. Just remember that I’m here for you, even if I couldn’t be since that day…
+rando: The last time we talked? I said some pretty nasty things to you, but this isn’t the time to think about that. Just remember that I’m here for you, even if I couldn’t be since that day…
 Ophelia (Funeral-Speak): Th-thanks either way…
-Rando: Well if you need anything just let me know, alright? I think it's time for you to give your eulogy, if you’re still ok to do it?
+rando: Well if you need anything just let me know, alright? I think it's time for you to give your eulogy, if you’re still ok to do it?
 Ophelia (Funeral-Awkward): I guess so…
-leave Rando
+leave rando
 update Ophelia center [move_time="0.5" move_ease="in"]
 Ophelia (Funeral-Awkward): I want to th-thank everyone that came here, even if there are not that many of y-you.
 update Ophelia (Funeral-Closed) [z_index="-10"]

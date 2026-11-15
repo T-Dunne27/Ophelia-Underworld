@@ -1,0 +1,40 @@
+[background arg="res://backrounds/restaurant-Hell.png" fade="1.0"]
+[style name="hell"]
+join Ophelia (Hell  Neutral) left
+join tio right
+Ophelia (Hell Speak): W-what do you mean by that?
+tio (Speak): Well just look and see!
+[background arg="res://backrounds/restaurant-Hell.png" fade="1.0" wait="true"]
+Ophelia (Hell Speak): What is this?
+tio (Speak): You dont know? Ohoho the audience is gonna loove this one
+Ophelia (upset speak): Why are yo doing this? Please leave me be
+tio: We're here for a story and we’re getting front row seats to your train wreck, and you want to deny  us that? Lets start the show!
+leave tio
+leave Ophelia
+[background arg="res://backrounds/Restaurant.jpg" fade="1.0" wait="true"]
+tio: This story begins just as nicely as before, yet we only properly know one side of the story, since our dear Fia’s memory seems to be a bit ‘farfetched’, as some would say.
+join Ophelia (Funeral-Neutral) left
+join rando right
+rando: Hey Fia! You finally made it!
+Ophelia (Funeral-Speak): Rias! It’s been so long, how have you been?
+rando: Not bad! Sit down, the lobster is great here.
+Ophelia (Funeral-Awkward): You already got something to eat?
+rando: Well… yeah. You were an hour late…
+Ophelia (Funeral-Awkward): I know, I know, I was just with Urseline. It took me a while to convince her to let me go with you…
+rando: You know that you’re the one who’s meant to decide that, right
+Ophelia (Funeral-Speak): Yea… But i dont want to disappoint her, that's all.
+rando: But its YOUR life, why would she be happy if you didn't get to do what you want?
+Ophelia: What is this really about, Rias?
+rando: Fia, I’m saying this as your best friend. I haven’t seen you in 3 whole months. We’ve had to reschedule our meetups at least [b] Ten [/b]times now. Its always, “Urseline needed comfort”, or “Urseline didn’t want to be alone”. Do you know how that makes me feel? It makes me feel like you don't truly care about me. Its all about your “Everything”. Does that make me nothing then? It’s not healthy, Ophelia. Putting that much on one person is bound in one of you breaking at one point or another. When that happens, I’ll be waiting for you…
+Ophelia (Funeral-Angry): You clearly don't know anything at all! You spew all this stuff as if you’ve ever even BEEN in a relationship. This is MY life, I know what is and isn’t healthy, so maybe you should stay out of where you don’t belong…
+rando: It was nice seeing you again Fia...
+leave rando [animation="Fade Out" length="0.9"]
+update Ophelia (Hell  Neutral)
+[background arg="res://backrounds/restaurant-Hell.png" fade="0.5"]
+join tio right [animation="Slide From Right"]
+tio: My god, woman, could you not see the ringing warning bells? 
+Ophelia: I remember now… And yet I still can’t remember his face…
+tio: Are you done with the melodrama?
+Ophelia: I’m so sorry that I pushed you away Rias… I pushed everyone away until Urseline was all that was left for me…
+tio: well it's a little late for that little realisation now isn’t it? How about we go see the grand spectacle of the rollercoaster that just keeps going down and down
+jump Scene 6.3/

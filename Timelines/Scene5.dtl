@@ -1,5 +1,5 @@
 [background arg="res://backrounds/hell.jpg" fade="2.0" transition="Simple Fade" wait="true"]
-[style name="demonic"]
+[style name="hell"]
 join Ophelia (Hell Dizzy) center
 update Ophelia [animation="Shake X" mirrored="true"]
 Ophelia (Hell Dizzy): uhh my head. Where am I?

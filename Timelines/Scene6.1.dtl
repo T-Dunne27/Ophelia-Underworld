@@ -1,4 +1,5 @@
 [background arg="res://backrounds/pub hell.png" fade="1.5" wait="true"]
+[style name="hell"]
 join tio (Neutral) right [animation="Slide From Left" mirrored="true"]
 join Ophelia (Hell  Neutral) left [animation="Slide From Left" length="1.0"]
 tio (Speak): And for our first exhibit, we see a quite sweet and somber scene, isn’t this just so sweet!
@@ -34,7 +35,7 @@ Urseline (Talking): Can’t have fun without a bit of risk, can we?
 leave motorbike
 [background arg="res://backrounds/Hilltop.jpg" fade="1.0"]
 Urseline: Out of everywhere, this is where you chose?
-Ophelia:  I always like to come up here to watch the sun set up here when i can, and now I have someone to watch it with!
+Ophelia: I always like to come up here to watch the sun set up here when i can, and now I have someone to watch it with!
 Urseline: Well if you insist…
 leave Urseline
 leave Ophelia
@@ -52,3 +53,4 @@ tio (Speak): I that it?
 Ophelia (upset speak): I swear she never sounded that possessive, ok? She just loved me, is all... \
 Was she like this from the beginning?
 tio: You keep telling yourself that then… Anyway time for our next exhibit, one that will surely surprise everyone involved
+jump Scene 6.2/

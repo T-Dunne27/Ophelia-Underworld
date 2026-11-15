@@ -24,16 +24,17 @@ directories/dch_directory={
 "Crowd": "res://characters/Crowd.dch",
 "Narrator": "res://characters/Narrator.dch",
 "Ophelia": "res://characters/Ophelia.dch",
-"Rando": "res://characters/Rando.dch",
 "Urseline": "res://characters/Urseline.dch",
 "fia": "res://characters/fia.dch",
 "motorbike": "res://characters/motorbike.dch",
+"rando": "res://characters/rando.dch",
 "tio": "res://characters/tio.dch"
 }
 directories/dtl_directory={
 "Scene 3": "res://Timelines/Scene 3.dtl",
 "Scene 4": "res://Timelines/Scene 4.dtl",
 "Scene 6.2": "res://Timelines/Scene 6.2.dtl",
+"Scene 6.3": "res://Timelines/Scene 6.3.dtl",
 "Scene1": "res://Timelines/Scene1.dtl",
 "Scene2": "res://Timelines/Scene2.dtl",
 "Scene5": "res://Timelines/Scene5.dtl",
@@ -41,7 +42,7 @@ directories/dtl_directory={
 }
 layout/style_directory={
 "Blurry": "res://Styles/blurry.tres",
-"demonic": "res://Styles/demonic.tres",
+"hell": "res://Styles/hell.tres",
 "style": "res://Styles/style.tres"
 }
 text/letter_speed=0.01
@@ -76,7 +77,7 @@ audio/channel_defaults={
 "volume": 0.0
 }
 }
-layout/style_list=["res://Styles/style.tres", "res://Styles/blurry.tres", "res://Styles/demonic.tres"]
+layout/style_list=["res://Styles/style.tres", "res://Styles/blurry.tres", "res://Styles/hell.tres"]
 layout/default_style="res://backrounds/style.tres"
 glossary/default_case_sensitive=true
 variables={}
