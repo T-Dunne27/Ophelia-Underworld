@@ -1,0 +1,33 @@
+[style name="hell"]
+[background arg="res://backrounds/hell bedroom.png" fade="0.0"]
+join tio center [animation="Slide In Up" z_index="24"]
+join Ophelia left
+join Urseline (blank) right
+tio (Speak): Woww, you really did just push away your problems, didn't you?
+Ophelia (Hell Speak): Urseline? Is that you…
+Urseline (blank): Why are you even awake… you should be sleeping…
+Ophelia (Hell Determined Speak): Can you hear me? Please listen to me!
+Urseline: Well I’m fine… Alright?...
+[background arg="#ffffffff" fade="1.5"]
+leave Urseline
+leave Ophelia
+leave tio
+[background arg="res://backrounds/hell.jpg" fade="1.5" wait="true"]
+join Urseline (demon/Neutral) right [animation="Shake X" length="1.0" wait="true"]
+join Ophelia (Hell Determined) left
+join tio center
+Ophelia (Hell Relief Speak): Can you finally hear me, Urseline?
+Urseline (demon/smile speak): Fia, you’re here… Wait, how are you here? Did you…
+Ophelia: No! Of course not!
+Urseline (demon/sad): Then how are you here? Why are you here? It’s not like I deserve you anyway…
+Ophelia (Neutral): Urseline…
+Urseline (demon/sad speak): Actually it doesn't matter. I never thought i was gonna see the true you in the flesh again, but will you forgive me and get back together again?
+Ophelia (Hell Speak): I don’t know…
+Urseline (demon/concerned speak): Was it something specific I did? Something I said? Cause I’d fix all of that just to be with you again
+Ophelia (Hell Relief Speak): It’s nothing, actually. I’ll be happy to get back with you, my love…
+tio (Speak): What a happy reunion! I honestly didn't think you guys would make this work, but here you are! But will it last, though? You still have to make it out of here alive, after all~
+Urseline (demon/speak): How do we get out of here?
+tio (Speak): Well there’s one way, but should i tell you? That would be a bit boring, wouldnt it?
+tio: Fine. To escape you must journey across these treachourous lands. But be warned! The decision will not be as simple as you believe it to be…
+leave tio [animation="Slide Out Up" length="1.0" wait="true"]
+Ophelia (Hell Determined):  I guess there’s only one way to find out how this goes…

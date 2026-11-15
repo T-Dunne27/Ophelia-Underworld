@@ -52,6 +52,87 @@
 "offset": Vector2(0, 0),
 "scale": 1,
 "scene": ""
+},
+"blank": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/urs. living blank.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"demon/Neutral": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/demon form/urs. demon 1 idle angry.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"demon/concerned": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/demon form/urs. demon 2 concerned idle.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"demon/concerned speak": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/demon form/urs. demon 2 concerned speak.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"demon/sad": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/demon form/urs. demon 1 idle frown.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"demon/sad speak": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/demon form/urs. demon 1 speak frown.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"demon/smile": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/demon form/urs. demon 1 idle smile.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"demon/smile speak": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/demon form/urs. demon 1 speak smile.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"demon/speak": {
+"export_overrides": {
+"image": "\"res://Sprites/Urseline/demon form/urs. demon 1 speak angry.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
 }
 },
 &"scale": 1.0

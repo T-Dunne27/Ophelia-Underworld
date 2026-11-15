@@ -35,6 +35,7 @@ directories/dtl_directory={
 "Scene 4": "res://Timelines/Scene 4.dtl",
 "Scene 6.2": "res://Timelines/Scene 6.2.dtl",
 "Scene 6.3": "res://Timelines/Scene 6.3.dtl",
+"Scene 7": "res://Timelines/Scene 7.dtl",
 "Scene1": "res://Timelines/Scene1.dtl",
 "Scene2": "res://Timelines/Scene2.dtl",
 "Scene5": "res://Timelines/Scene5.dtl",
