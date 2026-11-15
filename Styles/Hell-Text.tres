@@ -1,0 +1,10 @@
+[gd_resource type="StyleBoxTexture" format=3 uid="uid://l7q4mkjvftdr"]
+
+[ext_resource type="Texture2D" uid="uid://cpvr3677v44wp" path="res://Sprites/UI/textbox hell.png" id="1_i3iyr"]
+
+[resource]
+texture = ExtResource("1_i3iyr")
+texture_margin_left = 24.0
+texture_margin_top = 20.0
+texture_margin_right = 24.0
+texture_margin_bottom = 20.0

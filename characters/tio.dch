@@ -1,0 +1,40 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+&"_translation_id": "",
+&"color": Color(1, 1, 1, 1),
+&"custom_info": {
+"prefix": "[wave][color=Red]",
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "",
+"suffix": ""
+},
+&"default_portrait": "Neutral",
+&"description": "",
+&"display_name": "Tio",
+&"mirror": false,
+&"nicknames": [""],
+&"offset": Vector2(0, -4),
+&"portraits": {
+"Neutral": {
+"export_overrides": {
+"image": "\"res://Sprites/tio/tio idle.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Speak": {
+"export_overrides": {
+"image": "\"res://Sprites/tio/tio speak.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+&"scale": 1.0
+}

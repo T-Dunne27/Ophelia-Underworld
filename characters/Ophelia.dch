@@ -80,6 +80,69 @@
 "scale": 1,
 "scene": ""
 },
+"Hell  Neutral": {
+"export_overrides": {
+"image": "\"res://Sprites/Ophelia/oph hell idle.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Hell Determined": {
+"export_overrides": {
+"image": "\"res://Sprites/Ophelia/oph hell determined idle.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Hell Determined Speak": {
+"export_overrides": {
+"image": "\"res://Sprites/Ophelia/oph hell determined speak.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Hell Dizzy": {
+"export_overrides": {
+"image": "\"res://Sprites/Ophelia/oph hell dizzy mouth open.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Hell Relief": {
+"export_overrides": {
+"image": "\"res://Sprites/Ophelia/oph hell relief idle.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Hell Relief Speak": {
+"export_overrides": {
+"image": "\"res://Sprites/Ophelia/oph hell relief speak.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Hell Speak": {
+"export_overrides": {
+"image": "\"res://Sprites/Ophelia/oph hell base speak.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
 "Neutral": {
 "export_overrides": {
 "image": "\"res://Sprites/Ophelia/oph. pjs idle.png\""

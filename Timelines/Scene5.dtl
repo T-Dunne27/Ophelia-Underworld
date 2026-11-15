@@ -1,0 +1,21 @@
+[background arg="res://backrounds/hell.jpg" fade="2.0" transition="Simple Fade" wait="true"]
+[style name="demonic"]
+join Ophelia (Hell Dizzy) center
+update Ophelia [animation="Shake X" mirrored="true"]
+Ophelia (Hell Dizzy): uhh my head. Where am I?
+Narrator: Ophelia observes the general area and notices a group of people, and noticeably even now she still can't make out their features, except for a little creature in the center who can be seen clear as day, despite the rest of the featureless figures surrounding him
+join tio (Neutral) right [animation="Slide From Right" length="1.0"]
+update Ophelia left [animation="Shake X" length="0.8"]
+tio (Neutral): Welcome! You’re just in time for the tour!
+Ophelia (Hell Speak): Wh-what tour?.. Tell me where I.. where i am! Where’s Urseline?
+tio (Speak): Well now, we’ll get to that one in a moment now, won’t we
+Ophelia (Hell Speak): I-Isn’t she meant to be here? With me? Where even is here?
+tio (Speak): Ah! My apologies, I forgot to introduce myself! My name is Tetio, the curator of not the 1st, not the 2nd but the 3rd.You can call me Tio! Makes it feel more personal, don't you think?
+Ophelia (Hell Speak): Hell? Is this really where Urseline is?
+tio (Speak): Woooww, you’re really getting hung up on the wrong detailssss, jussst enjoy the exhibit!  Annnnd.. there might be a little prize for you at the end, if you catch my drift?
+Ophelia (Hell Relief Speak): Really? Is she actually here? Please take me to her! I’ll do anything!
+tio (Speak): Anything you say? Well then follow me! The crowd’s been waiting long enough, haven’t they?
+update tio [mirrored="true"]
+leave tio [animation="Slide To Right" length="2.0" wait="true"]
+leave Ophelia [animation="Slide To Right" length="2.0" wait="true"]
+[background arg="#000000ff" fade="3.0" wait="true"]

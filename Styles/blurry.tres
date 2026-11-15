@@ -32,6 +32,9 @@ scene = ExtResource("5_455us")
 script = ExtResource("2_x5jvl")
 scene = ExtResource("6_wj7lf")
 overrides = {
+"box_color_custom": "Color(1, 1, 1, 1)",
+"box_color_use_global": "false",
+"box_panel": "\"res://Styles/Earth-Text.tres\"",
 "normal_font": "\"res://Styles/StaticBuzz.ttf\"",
 "text_use_global_font": "false"
 }
@@ -67,4 +70,4 @@ layer_info = {
 "16": SubResource("Resource_u28hu"),
 "17": SubResource("Resource_l4fid")
 }
-metadata/_latest_layer = ""
+metadata/_latest_layer = "13"

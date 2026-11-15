@@ -25,13 +25,15 @@ directories/dch_directory={
 "Ophelia": "res://characters/Ophelia.dch",
 "Rando": "res://characters/Rando.dch",
 "Urseline": "res://characters/Urseline.dch",
-"fia": "res://characters/fia.dch"
+"fia": "res://characters/fia.dch",
+"tio": "res://characters/tio.dch"
 }
 directories/dtl_directory={
 "Scene 3": "res://Timelines/Scene 3.dtl",
 "Scene 4": "res://Timelines/Scene 4.dtl",
 "Scene1": "res://Timelines/Scene1.dtl",
-"Scene2": "res://Timelines/Scene2.dtl"
+"Scene2": "res://Timelines/Scene2.dtl",
+"Scene5": "res://Timelines/Scene5.dtl"
 }
 layout/style_directory={
 "Blurry": "res://Styles/blurry.tres",
