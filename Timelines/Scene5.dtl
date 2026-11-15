@@ -18,4 +18,5 @@ tio (Speak): Anything you say? Well then follow me! The crowd’s been waiting l
 update tio [mirrored="true"]
 leave tio [animation="Slide To Right" length="2.0" wait="true"]
 leave Ophelia [animation="Slide To Right" length="2.0" wait="true"]
-[background arg="#000000ff" fade="3.0" wait="true"]
+[background arg="#ff0000ff" fade="3.0" wait="true"]
+jump Scene6.1/
